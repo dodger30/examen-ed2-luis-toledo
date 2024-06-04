@@ -1,0 +1,4 @@
+/events
+*.class
+!/src/node_modules
+lock.json
